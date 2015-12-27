@@ -1,27 +1,27 @@
-ESPnode - Simple wifi-serial bridge for nodebots
+ESPglobe - A breakoutboard to drive neopixels
 =============
 
-This project is designed to add simple wifi capabilities to your nodebot.
+Continuing in the tradition of poorly named projects, these circuits were originally designed for a mates light globe replacement.
+
+Basically, this circuit board drives a neopixel using an ESP-01.  Sort of a cheap, RGB light really.
+It takes a 5 volt input voltage and even uses a mosfet to ensure that you can drive them at full force.
 
 You'll need another device to program your ESP-01.  Might I suggest https://github.com/mage0r/ESPkit-01/
 
-![Board Layout](Photos/v1.3.schematic.png?raw=true "schematic")
+![Board Layout](Photos/ESPglobe.front.png?raw=true "front")
 
-![Board Layout](Photos/v1.3.png?raw=true "design")
+![Board Layout](Photos/ESPglobe.back.png?raw=true "back")
 
-![Board Layout](Photos/2015-07-22 20.01.55.jpg?raw=true "physical.")
+![Board Layout](ESPglobe.pdf?raw=true "schematic")
+
 
 CREDITS
 ------------
 
-This project was designed by John Spencer for Melbourne Nodebots Day 2015.
-
-A special thanks to Andrew Fisher and Andy Gelme.
+This project was designed by John Spencer, 2015.
 
 You can see our githubs at:
  - https://github.com/mage0r
- - https://github.com/ajfisher
- - https://github.com/geekscape
 
 Made at hackmelbourne.org!
 

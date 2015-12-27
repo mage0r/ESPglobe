@@ -45,4 +45,9 @@ Temporary Items
 #  VIM
 *.*~
 *.swp
-Gerber.x4*
+Gerber.x2*
+Gerber*
+*.tmp
+*.ses
+*.zip
+*.dsn
