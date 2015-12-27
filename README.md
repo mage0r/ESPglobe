@@ -12,7 +12,7 @@ You'll need another device to program your ESP-01.  Might I suggest https://gith
 
 ![Board Layout](Photos/ESPglobe.back.png?raw=true "back")
 
-![Board Layout](ESPglobe.pdf?raw=true "schematic")
+https://github.com/mage0r/ESPglobe/raw/master/ESPglobe.pdf
 
 
 CREDITS
@@ -20,7 +20,7 @@ CREDITS
 
 This project was designed by John Spencer, 2015.
 
-You can see our githubs at:
+You can see my github at:
  - https://github.com/mage0r
 
 Made at hackmelbourne.org!
